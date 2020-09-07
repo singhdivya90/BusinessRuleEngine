@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "xyZme4ywCRmwQsKn4Fbzuuoq7OHFd2tXDc/gUez7MNw1oist+WOryudZQqkIvpXjDuPzPo0aqjFuRv7mVoz4EQ==",
+  "success": false,
+  "projectFilePath": "D:\\BusinessRuleEngine\\BusinessRuleEngine.Tests\\BusinessRuleEngine.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NETStandard.Library (>= 2.0.3)' for '.NETStandard,Version=v2.0'.",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
